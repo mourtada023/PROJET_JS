@@ -31,8 +31,12 @@ npm run build
 
 Qui va créer un fichier dist.
 
-# Accéder au jeu
+# Resumé:
+Jeu vidéo où le joueur essaye d’abattre des
+vaisseaux enemmis à l’aide d’un vaisseau
+qu’il contrôle au clavier
 
+# Accéder au jeu
 Pour accéder à celui-ci il suffit de se rendre à l'endroit où se trouve le fichier dist/ et cliquer sur index.html
 Le jeu se lancera.
 
